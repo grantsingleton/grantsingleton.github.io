@@ -2,24 +2,53 @@
 <html lan="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device_width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Grant Singleton</title>
         <link rel="stylesheet" href="styles.css">
     </head>
-    <body>
-        <header>
-            <nav>
-                <h1>Grant Singleton</h1>
-            </nav>
-        </header>
-        <main>
-            <h1>Project Page</h1>
-            <h2>Summary</h2>
-            <p>This is a project blog page. I will post about new skills that I have learned, 
-                as well as full projects.</p>
-        </main>
-        <footer>
-            
-        </footer>
+    <body id="root"> 
+    <main>
+        <div class="flex-container">
+            <div class="profile-container">
+                <div class="section profile-pic">
+                    <h1>Profile</h1>
+                </div>
+                <div class="section contact">
+                    <h1>Contact</h1>
+                </div>
+            </div>
+            <div class="info-container">
+                <div class="section summary">
+                    <h1>Summary</h1>
+                    <p>This page is for writing about what I have learned and what projects I have worked on.</p>
+                </div>
+                <div class="section learnings">
+                    <h1>Learnings</h1>
+                    <p>These are new skills that I am learning and writing about.</p>
+                    <ul>
+                        <li>Learning 1 | Month Day Year</li>
+                        <li>Learning 2 | Month Day Year</li>
+                        <li>Learning 3 | Month Day Year</li>
+                    </ul>
+                </div>
+                <div class="section projects">
+                    <h1>Projects</h1>
+                    <p>These are projects that I have worked on or am currently working on.</p>
+                    <ul>
+                        <li><a href="https://grantsingleton.github.io/memory/">Memory Allocator</a> | Feb 2019</li>
+                        <li>Project 2 | Month Day Year</li>
+                        <li>Project 3 | Month Day Year</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+        <!-- <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script> -->
+        <!-- <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script> -->
+
+        <!-- <script src="mainPage-dist.js"></script> -->
+    </footer>   
     </body>
 </html>

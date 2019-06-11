@@ -6,15 +6,27 @@ html {
     box-sizing: inherit;
 }
 
-/* Header Styles */
-header {
-    background-color: lightgrey;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    position: relative;
-}
-
 /* Main Styles */
 main {
-    text-align: center
+    margin: 10%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.section {
+    background: lightgrey;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.profile-container {
+    width: 30%;
+    height: 300px;
+}
+
+.info-container {
+    width: 70%;
 }

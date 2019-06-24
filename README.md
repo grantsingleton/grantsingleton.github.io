@@ -1,6 +1,6 @@
-## 
+## Summary
 
-This page is for writing about what I have learned or what I have worked on. 
+I am a Computer Engineering Student at Texas A & M. I love to learn, and this page is for writing about what I have learned and what I have worked on. 
 
 ## Projects
 

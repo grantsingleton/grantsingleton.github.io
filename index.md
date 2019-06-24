@@ -1,3 +1,5 @@
+# Grant Singleton 
+
 ## Summary
 
 I am a Computer Engineering Student at Texas A & M. I love to learn, and this page is for writing about what I have learned and what I have worked on. This is not an exhaustive list, but it does include the majority of my noteable projects. I also enjoy writing. You can read my article [*On Ethics of the Autonomous Vehicle*](https://philosophy.tamu.edu/wp-content/uploads/sites/15/2019/04/Aletheia_Online_Publishing-1-Spring-2019.pdf) that was published in the 2019 edition of the [Undergraduate Journal of Philosophy at Texas A & M](https://philosophy.tamu.edu/aletheia/). The article is my argument on the ethical programming of Autonomous Vehicles. 

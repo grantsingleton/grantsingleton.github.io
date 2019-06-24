@@ -6,7 +6,7 @@ I am a Computer Engineering Student at Texas A & M. I love to learn, and this pa
 
 [**Face Recognition** - Web App for identifying customors - HTML, JavaScript, ES6](https://grantsingleton.github.io/face-recognition/)
 
-[**Netorking and Threading** - Parallel data retrieval over the network - C++](https://grantsingleton.github.io/Network-Channel/)
+[**Networking and Threading** - Parallel data retrieval over the network - C++](https://grantsingleton.github.io/Network-Channel/)
 
 [**Chess Game** - Multi-mode chess game for playing over a network - Java](https://grantsingleton.github.io/Chess/)
 
